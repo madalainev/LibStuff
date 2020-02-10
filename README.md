@@ -1,2 +1,3 @@
 # LibStuff
-# carpentries workshop helpering
+
+Today: carpentries workshop helpering
