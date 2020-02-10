@@ -1,4 +1,4 @@
-# To do
+# To do - priority!
 - eat breakfast
 - make new github page
 - oh no that interferes with my other page
